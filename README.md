@@ -7,4 +7,4 @@
 - 💬 Ask any thing me about design, and I answer you!
 - 📫 How to reach me: dnlgd.wrk@yandex.ru or on [LinkedIn](https://www.linkedin.com/in/danielgds/).
 - 😄 Pronouns:
-- ⚡ Fun fact:  --> i can do a lot, but i no one needs me
+- ⚡ Fun fact:  --> i can do a lot, but no one needs me.
