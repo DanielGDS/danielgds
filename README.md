@@ -1,3 +1,5 @@
+![alt_text](https://raw.githubusercontent.com/DanielGDS/danielgds/main/GithubBanner.png)
+
 ### Hi! I am DanielGDS - Junior Game Developer 👋
 
 - 🔭 I’m currently working on created alot prototyping games for learning C#
