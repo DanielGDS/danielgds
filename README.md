@@ -1,3 +1,4 @@
+![alt_text](https://raw.githubusercontent.com/DanielGDS/danielgds/main/GithubProfileBanner.png)
 
 ### Hi! I am DanielGDS - Junior Game Developer 👋
 
