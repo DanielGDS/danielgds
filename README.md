@@ -1,6 +1,6 @@
 ![alt_text](https://raw.githubusercontent.com/DanielGDS/danielgds/main/GithubProfileBanner.png)
 
-### Hi! I am DanielGDS - Indie Game Developer 👋
+### Hi! I am DanielGDS - Tecnical Artist & Unity Game Programmer 👋
 
 - 🔭 I’m currently working on my own ["Node Dialogue System Toolkit"](https://github.com/DanielGDS/UrNarrativer) for Unity
 - 👯 I’m looking to collaborate and work with Indie Dev Team, or on anythere GameDev studios.
